@@ -1,0 +1,13 @@
+{
+  "name": "Hearth Family Calendar",
+  "short_name": "Hearth",
+  "description": "A shared family calendar and home organizer.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5f4ef",
+  "theme_color": "#233b35",
+  "icons": [
+    { "src": "/hearth-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
